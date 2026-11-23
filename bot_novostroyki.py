@@ -27,7 +27,7 @@ EXCEL_PATH = os.getenv("EXCEL_PATH", "Часть_1_исследование_но
 SHEET_NAME = "Часть 1 — ЖК"
 
 # Вставьте токен от @BotFather сюда или задайте переменную окружения BOT_TOKEN
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8653000740:AAGkHZ19vKSo359_bLRqGNl8ALaCIz1eh6I")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
 
 class SearchStates(StatesGroup):
